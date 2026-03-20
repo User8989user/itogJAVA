@@ -1,0 +1,14 @@
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\Main.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\config\DatabaseManager.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\BookDAO.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\LoanDAO.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\ReaderDAO.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\StatisticsDAO.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\impl\BookDAOImpl.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\impl\LoanDAOImpl.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\impl\ReaderDAOImpl.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\dao\impl\StatisticsDAOImpl.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\exception\DatabaseException.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\model\Book.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\model\Reader.java
+C:\Users\user\bautech\itogJAVA\src\main\java\com\library\util\InputHelper.java
